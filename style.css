@@ -890,7 +890,7 @@ footer{
 }
 
 .hero-image img{
-    display: none;
+      width:250px;
 }
 
 .hero-buttons{
