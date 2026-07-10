@@ -890,7 +890,7 @@ footer{
 }
 
 .hero-image img{
-      width:250px;
+      width:390px;
 }
 
 .hero-buttons{
@@ -923,6 +923,10 @@ footer{
 
 .contact-form{
     padding:25px;
+}
+
+.about-image{
+     width:250px;  
 }
 
 }
